@@ -34,7 +34,9 @@ MainWindow::~MainWindow()
    m_control->writePort(str);
    //m_control->readPort();
    /////////ролролрол
-   /// ///////////ролрол
+   ///345345345
+   /// 3453455
+
    }
  void MainWindow::fillparam(){
 
