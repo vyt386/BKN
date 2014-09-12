@@ -36,6 +36,7 @@ MainWindow::~MainWindow()
    /////////ролролрол
    ///345345345
    /// 3453455
+   /// пропро
 
    }
  void MainWindow::fillparam(){
