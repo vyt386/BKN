@@ -33,6 +33,8 @@ MainWindow::~MainWindow()
    QString str="2";
    m_control->writePort(str);
    //m_control->readPort();
+   /////////ролролрол
+   /// ///////////ролрол
    }
  void MainWindow::fillparam(){
 
